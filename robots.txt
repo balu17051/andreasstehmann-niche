@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /cache/
+Sitemap: https://balu17051.github.io/andreasstehmann-niche/sitemap.xml
